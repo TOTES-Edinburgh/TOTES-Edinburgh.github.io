@@ -1,12 +1,17 @@
 # Welcome
 
-Welcome to the main site for The Open Tech Edinburgh Scene !
+Enthusiasts of open technology unite! We are interested in Open Source, Open Data, Open Hardware, Makers and Makerspaces, and all that good, sharing vibe in technology!
 
-We are inviting everybody to talk and hear talks around Open Source, hosted in the heart of Edinburgh.
+We host talks and socials centred around open technologies and practices, and we'd like you to join us to share your experiences and knowledge! From hobbyists and newcomers to seasoned professionals, all are welcome.
+
+Our aim is to host talks and lightning talks around open tech practices in industry and education, from members of our community on a regular basis.
+
 
 ## Events
 
 Find us on [Meetup.com][meetup-url]
+
+We are inviting everybody to talk and hear talks around Open Source, hosted in the heart of Edinburgh.
 
 ## Talks
 
