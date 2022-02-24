@@ -13,6 +13,16 @@ Find us on [Meetup.com][meetup-url]
 
 We are inviting everybody to talk and hear talks around Open Source, hosted in the heart of Edinburgh.
 
+### Format
+
+Currently, we aim to host a monthly talks event.
+
+* Every three months, the event will centre around one or two full-length talks.
+* Other months, the diary will be open to anybody who would like to give a 5-10min lightning talk.
+* We may determine full-length talks either
+    * from the talk suggestions inbox
+    * or invite lightning-talk speakers to expand on their topic, should they wish to
+
 ## Talks
 
 Currently, we are looking for speakers for our first talks. Please [open an Issue][issues] to suggest or request a talk:
