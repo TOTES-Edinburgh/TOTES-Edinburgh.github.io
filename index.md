@@ -1,3 +1,7 @@
+---
+title: TOTES
+---
+
 # Welcome
 
 Enthusiasts of open technology unite! We are interested in Open Source, Open Data, Open Hardware, Makers and Makerspaces, and all that good, sharing vibe in technology!
