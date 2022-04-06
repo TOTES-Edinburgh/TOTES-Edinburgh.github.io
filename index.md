@@ -17,6 +17,9 @@ Find us on [Meetup.com][meetup-url]
 
 We are inviting everybody to talk and hear talks around Open Source, hosted in the heart of Edinburgh.
 
+We aim to meet on the third Wednesday of each month, at Codebase, Edinburgh , followed by socialising in a nearby pub after the talks.
+
+
 ### Format
 
 Currently, we aim to host a monthly talks event.
