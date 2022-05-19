@@ -32,10 +32,12 @@ Currently, we aim to host a monthly talks event.
 
 ## Talks
 
-Currently, we are looking for speakers for our first talks. Please [open an Issue][issues] to suggest or request a talk:
+We are always on the lookout for speakers! Please [open an Issue][issues] to suggest or request a talk:
 
 * [Requested talks](https://github.com/TOTES-Edinburgh/TOTES-Edinburgh.github.io/issues?q=is%3Aissue+is%3Aopen+label%3ATalk%3ARequested)
 * [Suggested talks](https://github.com/TOTES-Edinburgh/TOTES-Edinburgh.github.io/issues?q=is%3Aissue+is%3Aopen+label%3ATalk%3ASuggestion)
+
+You can [browse our list of previous talks](https://github.com/TOTES-Edinburgh/TOTES-Edinburgh.github.io/issues?q=is%3Aissue+is%3Aclosed), or watch videos of previous talks on [this YouTube playlist](https://www.youtube.com/playlist?list=PL9TiDNXug-V26aOFpWmgI3S3-eJ59gWmI).
 
 ---
 
