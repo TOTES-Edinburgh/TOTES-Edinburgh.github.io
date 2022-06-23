@@ -39,6 +39,11 @@ We are always on the lookout for speakers! Please [open an Issue][issues] to sug
 
 You can [browse our list of previous talks](https://github.com/TOTES-Edinburgh/TOTES-Edinburgh.github.io/issues?q=is%3Aissue+is%3Aclosed), or watch videos of previous talks on [this YouTube playlist](https://www.youtube.com/playlist?list=PL9TiDNXug-V26aOFpWmgI3S3-eJ59gWmI).
 
+## Mailing List
+
+* [Subscribe][mail-list] to join our community!
+* [Participate][mail-address]
+
 ---
 
 <small>Our events are governed by our [Code of Conduct][totes-coc]. We strive to ensure our events are open and accessible to all.</small>
@@ -47,3 +52,6 @@ You can [browse our list of previous talks](https://github.com/TOTES-Edinburgh/T
 [totes-coc]: https://totes-edinburgh.github.io/code-of-conduct.html
 
 [meetup-url]: https://www.meetup.com/TOTES-Edinbugh/
+
+[mail-list]: https://www.freelists.org/list/opentech-edinburgh
+[mail-address]: mailto:opentech-edinburgh@freelists.org
