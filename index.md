@@ -22,13 +22,13 @@ We aim to meet on the third Wednesday of each month, at Codebase, Edinburgh , fo
 
 ### Format
 
-Currently, we aim to host a monthly talks event.
+Currently, we aim to host a monthly event. We host three types of event:
 
-* Every three months, the event will centre around one or two full-length talks.
-* Other months, the diary will be open to anybody who would like to give a 5-10min lightning talk.
-* We may determine full-length talks either
-    * from the talk suggestions inbox
-    * or invite lightning-talk speakers to expand on their topic, should they wish to
+* Talk events with one or two speakers on topics in open technologies and topics
+* Open community BarCamp-style events
+* Ask-Me-Anything ("AMA") events with a small panel of topic specialists
+
+We do not host an event in August due to the local Edinburgh Festival and Fringe Festival events taking voer the town. Go see some arts!
 
 ## Talks
 
